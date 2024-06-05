@@ -9,7 +9,6 @@ This repository contains a Node-RED flow for an IoT application and a set of sli
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Files
 
@@ -65,7 +64,7 @@ To use the files in this repository, you will need the following:
 1. Open `IoT_Use_Case_Slides.pdf` to understand the context and application of the Node-RED flow.
 2. Use the slides to present the use case to stakeholders or for educational purposes.
 
-## Contributing
+## Contributors
 - Sara Huang
 - Ziad Elharairi
 - Massimiliano Cristina
